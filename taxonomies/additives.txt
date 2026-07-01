@@ -24825,6 +24825,14 @@ wikidata:en: Q212410
 wikipedia:en: https://en.wikipedia.org/wiki/Protease
 # ingredient/fr:protéase has 111 products in 5 languages @2019-02-01
 
+en: E1101i, Protease from Aspergillus oryzae
+xx: E1101i
+es: E1101i, Proteasa de Aspergillus oryzae
+e_number:en: 1101
+vegan:en: yes
+vegetarian:en: yes
+# add E1101i (Protease from Aspergillus oryzae) to ingredients taxonomy
+
 en: E1102, Glucose oxidase
 xx: E1102
 bg: E1102, Глюкозна оксидаза
